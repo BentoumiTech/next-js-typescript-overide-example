@@ -8,8 +8,9 @@
     "type-check": "tsc"
   },
   "dependencies": {
-    "@zeit/next-typescript": "^1.1.1",
-    "next": "^8.1.1-canary.28",
+    "@types/express": "^4.16.1",
+    "express": "^4.16.4",
+    "next": "8.1.1-canary.29",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   },
