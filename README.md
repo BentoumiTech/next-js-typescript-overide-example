@@ -1,0 +1,1 @@
+# next-js-typescript-overide-example
